@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MG-Koda
-- 👀 I’m interested in informatic in general, music, gaming and cooking
-- 🌱 I’m currently learning the basics about the IT world
+- 👀 I’m interested in informatic in general, music, gaming and cooking.
+- 🌱 I’m currently working as a Junior Java Developer, trying to learn new things every day.
 
 
 <!---
