@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MG-Koda
+- 👋 Hi, I’m Koda
 - 👀 I’m interested in informatic in general, music, gaming (including game developement) and cooking.
 - 🌱 I work as a Junior Java Developer, current focus on spring framework.
 
