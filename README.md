@@ -1,6 +1,5 @@
-- 🌱 I work as a Junior Java Developer, current focus on spring framework.
-- 👀 I’m interested in informatic in general, music, gaming (including game developement) and cooking.
-
+- 🌱 Java/Spring Developer
+- 👀 Main focus on microservices architectures and batch applications
 
 <!---
 MG-Koda/MG-Koda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
